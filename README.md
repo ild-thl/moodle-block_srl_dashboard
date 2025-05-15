@@ -58,3 +58,7 @@ When moodle asks you to configure the new settings for the plugin, upload the pr
  
 - `block_disealytics | filterfile` -> upload event_filter_yymmdd.csv
 - `block_disealytics | components` -> upload comp_map_yymmdd.csv
+
+***
+
+This repository was cloned from [https://github.com/ild-thl/moodle-block_disealytics](https://github.com/ild-thl/moodle-block_disealytics) on 05/15/2025
